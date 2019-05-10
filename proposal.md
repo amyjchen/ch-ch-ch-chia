@@ -1,7 +1,7 @@
 # Seed Plotter
 
 <img src="https://github.com/amyjchen/ch-ch-ch-chia/blob/master/example_plotter.png" width="25%">
-*Above: example usage of plotter*
+<i>Above: example usage of plotter</i>
 
 ## Team members
 Amy Chen: handle the plant aspect of the project and work on the G-code for determining plotter movement
