@@ -17,7 +17,18 @@ This extension of the T-bot is a fairly unique one. Other machines and processes
 One of the more difficult aspects of this project will be the milestones related to the seed dispensing mechanism, namely designing/fabricating the attachment and controlling the rate of the dispenser via G-code. Another potential challenge lies in the difficulty of troubleshooting with organic matter; it takes at least 7 days for chia seeds to germinate, and thus we won't be able to determine the accuracy of the plotter/seed dispenser immediately, as would be possible with the T-bot or a laser cutter.
 
 # Plans & Milestones
+0. Experiment with planting constraints of chia, i.e. germination, planting depth, watering...
+1. Design a preliminary seed dispenser
+2. Design plotter mounts/accesories for red wagon
+3. Make decisions about seed density as it relates to graphic symbolism, i.e. shading, line weight, etc...
+4. Tie seed distribution to plotter path in G-code or Arduino firmware
+5. Create a design to be plotted
+6. Select/Source/Modify a reliable progam to output vector graphics to G-code paths
+7. Fabricate mounts/accesories and assemble plotter on board the red wagon
+8. Plot/Plant our design
+9. Wait for chia to sprout!
 
 # Parts & Supplies Needed
+To bring this idea to fruition, we’ll need a similar set of components as the XY plotter project. These will include v-slot extrusion, stepper motors, an arduino, a cnc shield, driver chips, jumpers, belts, bearings, and fasteners. Beyond the T-bot parts, we'll be using a classic red wagon as our planting bed, soil and fertilizer, and chia seeds because of their quick germination period. We'll also be building our seed dispenser from a combination of 3D printed and off the shelf parts.
 
 # References & Attributions
