@@ -14,7 +14,7 @@ We wanted to make use of materials and techniques learned in class and were inte
 
 TODO: what is innovative
 
-TODO: what will be hardest
+One of the more difficult aspects of this project will be the milestones related to the seed dispensing mechanism, namely designing/fabricating the attachment and controlling the rate of the dispenser via G-code. Another potential challenge lies in the difficulty of troubleshooting with organic matter; it takes at least 7 days for chia seeds to germinate, and thus we won't be able to determine the accuracy of the plotter/seed dispenser immediately, as would be possible with the T-bot or a laser cutter.
 
 # Plans & Milestones
 
